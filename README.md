@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm VIPIN K</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Python web developer</h3>
 
 <p align="left"> <a href="https://twitter.com/vipinkvpk" target="blank"><img src="https://img.shields.io/twitter/follow/vipinkvpk?logo=twitter&style=for-the-badge" alt="vipinkvpk" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Python web development**
 
-- 🌱 I’m currently learning **TensorFlow, Deep Learning, Computer Vision, NLP**
+- 🌱 I’m currently learning **Django, React, DSA**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m looking to collaborate on *Django and React**
 
-- 🤝 I’m looking for help with **Artificial Intelligence**
+- 🤝 I’m looking for help with **Fast Api**
 
 - 👨‍💻 All of my projects are available at [https://linkedin.com/in/vipinkvpk](https://linkedin.com/in/vipinkvpk)
 
